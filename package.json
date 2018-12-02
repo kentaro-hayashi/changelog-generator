@@ -10,5 +10,9 @@
   "license": "MIT",
   "dependencies": {
     "simple-git": "^1.107.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.9.0"
   }
 }
